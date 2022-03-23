@@ -1,0 +1,73 @@
+
+/* INICIO ESTILO */
+
+html, body{
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: white;
+    align-items: center;
+    align-content: center;
+}
+
+nav{
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    position:relative;
+}
+
+nav > a{
+    font-size: large;
+    text-decoration: none;
+    color: #160e2d;
+}
+
+
+
+nav > h1{
+    font-family:'Bungee';
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    color: #170846;
+    box-shadow: rgba(0, 0, 0, .4);
+
+}
+nav > p{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.aaa{
+    text-decoration: none;
+    color: #397b24;
+    font-size:large;
+    text-transform: uppercase;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background-color: #160e2d;
+}
+
+.copyright{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.copyright:hover{
+    color: #ffffff;
+}
+
