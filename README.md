@@ -1,6 +1,6 @@
 ## Trabalho do curso de JavaScript da TreinaWEb - Jogo da Velha online.
 
-Exercício usou as seguintes tecnologias:
+Exercício usou as seguintes tecnologias: 
 
 <p dir="auto">
   <img align="center" alt="doug-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
